@@ -11,3 +11,7 @@ Why hibernate?
 - Write CRUD operations without actually writing SQL queries.
 - HQL allows to write Object Oriented Queries for advanced operations
 - Implementation of JPA , so has high interoperability with other java EE apps.
+
+### Features of Hibernate:
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a04a839-9239-4ee5-9798-4c86830e72c2/Untitled.png)
