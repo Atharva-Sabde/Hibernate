@@ -14,4 +14,5 @@ Why hibernate?
 
 ### Features of Hibernate:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a04a839-9239-4ee5-9798-4c86830e72c2/Untitled.png)
+![image](https://user-images.githubusercontent.com/67774570/137636678-d901a3c6-c032-415f-ab89-22b2612329b8.png)
+
