@@ -4,8 +4,7 @@ Hibernate theory + Code for quick interview prep.
 > 
 
 Why hibernate?
-Hibernate is an ORM ( object relation Mapping )  tool for java. 
-
+->  Hibernate is an ORM ( object relation Mapping )  tool for java. 
     Using this we can map java Classes to database tables and even java datatypes to sql datatypes.
 
 - Saves lot of time in developing database extensive applications , so  we can focus more on business logic.
