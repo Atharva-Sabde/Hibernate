@@ -16,10 +16,6 @@ Why hibernate?
 
 ![image](https://user-images.githubusercontent.com/67774570/137636678-d901a3c6-c032-415f-ab89-22b2612329b8.png)
 
-1. ORM
-    - allows mapping of java domain objects into tables and vice versa.
-    - business logic is able to change database entities via java objects
-    - speeds up overall development process by transaction management,  auto primary key generation and managing DB connections
 2. Idiomatic Persistence
     - Any class that follows OOPs principles can be used as a persistent class
 3.  JPA Provider
@@ -29,3 +25,8 @@ Why hibernate?
 5. High performance and Scalability. 
     - supports different fetching strategies , lazy initialization , optimistic locking etc to achieve high performance
     - scales well in any environment.
+    
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1b91cbf-1a04-4363-bb0b-324c11a19e77/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5cc44ee-01ca-456c-98cc-0640e781e91b/Untitled.png)
